@@ -1,6 +1,6 @@
 using System;
 
-namespace CoreWiki.Entities {
+namespace CoreWiki.Data.Entities {
     public class User {
         public string Id {get;set;}
         public string FirstName {get;set;}

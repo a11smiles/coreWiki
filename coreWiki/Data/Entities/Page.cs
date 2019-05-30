@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CoreWiki.Entities
+namespace CoreWiki.Data.Entities
 {
     public class Page
     {

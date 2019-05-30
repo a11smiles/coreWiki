@@ -1,6 +1,6 @@
 using System;
 
-namespace CoreWiki.Entities {
+namespace CoreWiki.Data.Entities {
     public class PageHistory {
         public string Editor;
         public DateTime EditedOn;
