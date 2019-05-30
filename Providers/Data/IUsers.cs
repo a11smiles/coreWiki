@@ -1,4 +1,4 @@
-namespace CoreWiki.Data {
+namespace CoreWiki.Providers.Data {
     public interface IUsers {
         
     }

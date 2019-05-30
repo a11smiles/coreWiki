@@ -1,6 +1,6 @@
 using CoreWiki.Entities;
 
-namespace CoreWiki.Data {
+namespace CoreWiki.Providers.Data {
     public interface IPages
     {
         Page GetPage(bool isHome);
