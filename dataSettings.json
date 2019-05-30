@@ -1,0 +1,8 @@
+{
+    "MSSQL": {
+        "ConnectionString": "Server=localhost;Database=CoreWiki;Trusted_Connection=True;MultipleActiveResultSets=True;"
+    },
+    "CosmosDB": {
+        "ConnectionString": "AccountEndpoint=https://accountname.documents.azure.com:443/‌​;AccountKey=accountk‌​ey==;Database=database"
+    }
+}
